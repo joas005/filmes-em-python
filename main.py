@@ -14,7 +14,7 @@ def exitingProgram():
 
 # Main - 
 print('\033[35mComo é esse filme?\033[0m')
-print('\nUm pequeno aplicativo para você se guiar qunando estiver decidindo o que assistir!')
+print('\nUm pequeno aplicativo para você se guiar quanndo estiver decidindo o que assistir!')
       
 while True:
     print('\nO que você deseja fazer?\n\n\033[32m[1] Pesquisar filme específico.\n\033[1;35m[2] Pesquisar saga de filmes.\n\033[34m[3] Ver créditos.\n\033[31m[4] Sair.\033[0m')
